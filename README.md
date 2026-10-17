@@ -17,7 +17,7 @@ self-checking exercises.
 
 ## Commands
 
-Needs [Bun](https://bun.sh). `tsc` is only used for type checking.
+Needs [Bun](https://bun.sh).
 
     bun build.ts                         # writes docs/index.html
     bun test/tutorial.ts                 # runs every tutorial cell and exercise solution
