@@ -1,0 +1,10 @@
+{
+  "name": "potion.ts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun build.ts",
+    "check": "bun test/tutorial.ts",
+    "typecheck": "tsc -p ."
+  }
+}
